@@ -108,8 +108,6 @@ pegarGerente("SP-001", 12000)
 ```
 🎯 **Objetivo:** Encontrar o gerente com menos clientes no mesmo segmento do cliente.
 
-![Gerente e Cliente](https://cdn-icons-png.flaticon.com/512/1256/1256650.png)
-
 ---
 
 ### 🔹 4. Cadastrar um Cliente
